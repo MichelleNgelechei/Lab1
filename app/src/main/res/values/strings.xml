@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_create_account">Create Account</string>
+    <string name="txtpassword">Password</string>
+    <string name="txtfirstname">First Name</string>
+    <string name="txtlastname">Last Name</string>
+    <string name="txtemail">Email</string>
+<string name="txtusername">Username</string>
+    <string name="txtlogin">Login</string>
+    <string name="txtcreateaccount">Create Account</string>
+
+
+</resources>
